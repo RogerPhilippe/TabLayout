@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="amber">#FFC70D</color>
+    <color name="bg_form_group_menu">#CCCCCC</color>
+    <color name="black">#000000</color>
+    <color name="black_alpha25">#40000000</color>
+    <color name="black_alpha41">#68000000</color>
+    <color name="button_danger">#e74c3c</color>
+    <color name="button_primary">#337AB7</color>
+    <color name="button_success">#5cb85c</color>
+    <color name="colorFormRowCardMode">#FFFFFF</color>
+    <color name="colorFormRowTitle">#006097</color>
+    <color name="colorSplashScreen">#006097</color>
+    <color name="config_user_confirm_background_normal">#AA7B93FD</color>
+    <color name="crash_report_background">#E8E8E8</color>
+    <color name="crash_report_button_primary">#3364A2</color>
+    <color name="crash_report_message">#333333</color>
+    <color name="dialog_title_background">#F30617</color>
+    <color name="gray_2">#c0c0c0</color>
+    <color name="gray_3">#dfdfdf</color>
+    <color name="gray_3_alpha50">#7Fdfdfdf</color>
+    <color name="legacy_control_normal">#99000000</color>
+    <color name="red_alpha75">#BFFF0000</color>
+    <color name="toast_error">#BFe74c3c</color>
+    <color name="toast_info">#BF5bc0de</color>
+    <color name="toast_success">#BF5cb85c</color>
+    <color name="toast_warning">#BFf0ad4e</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
